@@ -1,2 +1,2 @@
 # hello-world
-Experimental repository made step-by-step guide
+Experimental repository made with step-by-step guide
